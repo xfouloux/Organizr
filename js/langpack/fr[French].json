@@ -515,6 +515,8 @@
         "Account prefix - i.e. Controller\\ from Controller\\Username for AD - uid= for OpenLDAP": "Préfixe de compte - i.e. Contrôleur\\ du Contrôleur\\Nom d'utilisateur pour ActiveDirectory - uid= pour OpenLDAP",
         "Account Prefix": "Préfixe de compte",
         "LDAP Backend Type": "Type de back-end LDAP",
-        "Strict Plex Friends": "Amis Plex Stricts"
+        "Strict Plex Friends": "Amis Plex Stricts",
+        "Plex Active Streams": "Flux Plex Actifs",
+        "Requests": "Requête"
     }
 }
