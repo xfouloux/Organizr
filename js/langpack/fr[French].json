@@ -516,7 +516,6 @@
         "Account Prefix": "Préfixe de compte",
         "LDAP Backend Type": "Type de back-end LDAP",
         "Strict Plex Friends": "Amis Plex Stricts",
-        "Plex Active Streams": "Flux Plex Actifs",
-        "Requests": "Requête"
+        "Plex Active Streams": "Flux Plex Actifs"
     }
 }
