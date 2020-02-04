@@ -515,6 +515,8 @@
         "Account prefix - i.e. Controller\\ from Controller\\Username for AD - uid= for OpenLDAP": "Account prefix - i.e. Controller\\ from Controller\\Username for AD - uid= for OpenLDAP",
         "Account Prefix": "Account Prefix",
         "LDAP Backend Type": "LDAP Backend Type",
-        "Strict Plex Friends": "Strict Plex Friends"
+        "Strict Plex Friends": "Strict Plex Friends",
+        "Plex Active Streams": "Plex Active Streams",
+        "Requests": "Requests"
     }
 }
